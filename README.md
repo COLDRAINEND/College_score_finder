@@ -1,6 +1,9 @@
 # College_score_finder
 When I was bored during the winter vacation, I made a score query developed by python, mainly using the framework of web crawler, BS4 and Qt5. Package with pyinstaller.
 
+注意： windows 用户下载刚开始运行时，可能会失败报错，多试几次就可以了。毕竟兼容性不是很好。。。
+
+
 程序分为 两个版本，分别为 Linux 版，以可执行文件方式运行就可以打开了， 还有另一个WINDOWS 版本，双击exe程序就可以运行了。
 运行的时候会在程序根目录产生两个后缀为 .py 的文件，这两个文件是用来批量查询的。
 
