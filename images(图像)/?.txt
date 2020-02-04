@@ -1,0 +1,18 @@
+                          ./+o+-       coldrain-end@coldrainend-MXET
+                  yyyyy- -yyyyyy+      OS: Ubuntu 18.04 bionic
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 5.3.0-26-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 11h 53m
+         .:++o:  /++++++++/:--:/-      Packages: 2126
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash
+       .:+o:+o/.          `+sssoo+/    Resolution: 1920x1080
+  .++/+:+oo+o:`             /sssooo.   DE: GNOME 
+ /+++//+:`oo+o               /::--:.   WM: GNOME Shell
+ \+/+o+++`o++o               ++////.   WM Theme: Adwaita
+  .++.o+++oo+:`             /dddhhh.   GTK Theme: Ambiance [GTK2/3]
+       .+.o+oo:.          `oddhhhh+    Icon Theme: ubuntu-mono-dark
+        \+.++o+o``-````.:ohdhhhhh+     Font: Ubuntu 11
+         `:o+++ `ohhhhhhhhyo++os:      CPU: Intel Core i9-9900KF @ 16x 5.0GHz
+           .o:`.syhhhhhhh/.oo++o`      GPU: GeForce RTX 2080Ti
+               /osyyyyyyo++ooo+++/     RAM: 5410MiB / 31902MiB
+                   ````` +oo+++o\:    
+                          `oo++.   
