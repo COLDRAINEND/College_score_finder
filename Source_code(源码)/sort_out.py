@@ -43,7 +43,6 @@ class ProcessAndWrite(object):
         self.class_get = []
 
     def structure(self, get_list):
-        # 原列表 [('IT职场英语1', '80'), ('class', '19计算机网络技术1'), ('name', '彭成新'), ('体育Ⅰ', '76'),  ... ('计算机数学', '87')]
         for line in get_list:
             line = str(line)
             line = line.lstrip("'(").rstrip("')").replace(" '", "").replace("'", "").split(',')   # 去除括号，单引号，再分割为列表
